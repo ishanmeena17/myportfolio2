@@ -322,7 +322,7 @@ nav .fas{
 }
 @media only screen and (max-width:600px){
     #header{
-        background-image: url(Images/mountain1.jpg);
+        background-image: url(mountain1.jpg);
     }
 .header-text{
     margin-top: 100%;
@@ -391,7 +391,7 @@ tab-links{
 }
 #myphoto{
    
-    background-image: url(Images/gwalior.jpeg);
+    background-image: url(gwalior.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 70%;
@@ -400,7 +400,7 @@ tab-links{
   
 }
 #myphoto:hover{
-    background-image: url(Images/Portfolio144.jpeg);
+    background-image: url(Portfolio144.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 70%;
