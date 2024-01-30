@@ -367,6 +367,20 @@ nav ul .fas{
 }
 .about-col-1 {
     margin-bottom: 30px;
+       background-image: url(gwalior.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 70%;
+    transition: 1500ms;
+    border-radius: 3%;
+}
+   .about-col-1:hover{
+    background-image: url(Portfolio144.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 70%;
+    border-radius: 5%;
+   
 }
 .about-col-2{
     font-size: 14px;
@@ -381,7 +395,7 @@ tab-links{
 .copyright{
     font-size: 14px;
 }
-#myphoto{
+/* #myphoto{
    
     background-image: url(gwalior.jpeg);
     background-repeat: no-repeat;
@@ -398,7 +412,7 @@ tab-links{
     background-position: 70%;
     border-radius: 5%;
    
-}
+} */
 }
 #msg{
     color:#61b752;
@@ -406,7 +420,7 @@ tab-links{
     display: block;
 
 }
-#myphoto{
+/* #myphoto{
    
     background-image: url(gwalior.jpeg);
     background-repeat: no-repeat;
@@ -423,4 +437,4 @@ tab-links{
     background-position: 70%;
     border-radius: 5%;
    
-}
+} */
