@@ -381,7 +381,24 @@ tab-links{
 .copyright{
     font-size: 14px;
 }
-
+#myphoto{
+   
+    background-image: url(gwalior.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 70%;
+    transition: 1500ms;
+    border-radius: 3%;
+  
+}
+#myphoto:hover{
+    background-image: url(Portfolio144.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 70%;
+    border-radius: 5%;
+   
+}
 }
 #msg{
     color:#61b752;
